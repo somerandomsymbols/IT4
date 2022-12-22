@@ -1,0 +1,17 @@
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\IT4.exe
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\appsettings.Development.json
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\appsettings.json
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\IT4.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\IT4.deps.json
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\IT4.runtimeconfig.json
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\IT4.pdb
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Microsoft.EntityFrameworkCore.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Microsoft.OpenApi.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\MongoDB.Bson.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\somerandomsymbols\AppData\Local\Temp\5llm1r0a.0c0\System.Diagnostics.DiagnosticSource.dll
